@@ -1,12 +1,12 @@
 /* One continuous position controls the depth line; details settle on the nearest look. */
 (()=>{
 const looks=[
- {name:'Everyday structure',copy:'Utility, softened. An olive layer with a clean charcoal foundation.',pieces:[0,2]},
- {name:'The quiet essential',copy:'An ivory Oxford and a relaxed pleat. Considered from morning to evening.',pieces:[1,2]},
- {name:'After hours',copy:'Deep navy tailoring. A little structure, a confident presence.',pieces:[3,2]},
- {name:'A longer view',copy:'Generous proportions and warm taupe. Room to move, room to layer.',pieces:[4,16]},
- {name:'Texture in focus',copy:'A rust knit, an open collar and a clean trouser. Understated by design.',pieces:[5,2]},
- {name:'Off the clock',copy:'Soft sage layers and an easy dark base. Your own rhythm.',pieces:[7,10]}
+ {name:'Everyday structure',copy:'Utility, softened. An olive layer with a clean charcoal foundation.',pieces:[2,9]},
+ {name:'The quiet essential',copy:'An ivory Oxford and a relaxed pleat. Considered from morning to evening.',pieces:[0,7]},
+ {name:'After hours',copy:'Deep navy tailoring. A little structure, a confident presence.',pieces:[3,10]},
+ {name:'A longer view',copy:'Generous proportions and warm taupe. Room to move, room to layer.',pieces:[5,11]},
+ {name:'Texture in focus',copy:'A rust knit, an open collar and a clean trouser. Understated by design.',pieces:[4,12]},
+ {name:'Off the clock',copy:'Soft sage layers and an easy dark base. Your own rhythm.',pieces:[6,13]}
 ];
 const stage=document.querySelector('#runway-stage');if(!stage)return;
 const line=document.querySelector('#runway-line'),rail=document.querySelector('#runway-rail'),title=document.querySelector('#look-title'),countEl=document.querySelector('#look-count'),description=document.querySelector('#look-description'),dots=document.querySelector('#runway-dots');
