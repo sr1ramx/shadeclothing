@@ -1,3 +1,4 @@
 .netlify/
+.vendor-cache/
 node_modules/
 *.log
