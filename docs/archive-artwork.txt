@@ -1,0 +1,19 @@
+Built-in image generation. Eight separate transparent photographic garment assets.
+
+Use case: product-mockup. Create ONE extremely photorealistic menswear product photograph for a 3D digital archive. FRONT view, garment hanging naturally vertically, with invisible support: NO HANGER, NO HOOK, NO MANNEQUIN, NO PERSON. Full garment silhouette visible, correct natural sleeve shapes and fabric folds, entirely isolated against a genuinely transparent background. Portrait canvas 1024x1536, garment centered, fills about 85% of canvas, generous transparent border. Real tactile fabric, visible seams/cuffs/collars, studio soft directional lighting, restrained and high-end, no floor or cast shadow outside the object, no vignette, no backdrop. Real contemporary menswear Y2K archival tailoring rather than a flat lay or drawing. No cartoon style, cheap CGI or deformed shapes. All graphics on garment must be original abstract designs, no third-party branding. SUBJECT: 
+
+harness-tee: An oversized BONE WHITE heavy cotton T-SHIRT, short drop shoulder sleeves, charcoal black bound ribbed collar, an original dark charcoal looping harness-line graphic across chest and torso, worn in subtle cotton texture, relaxed volume. No readable text.
+
+graphite-zip-hoodie: A GRAPHITE BLACK oversized ZIP HOODIE, heavy loopback cotton, three-panel hood softly opened and folded behind neck, large kangaroo pockets split by a polished silver zipper, rib cuffs/hem, subtle washed texture and heavy hanging sleeves. Small tone-on-tone original abstract emblem on chest, no text.
+
+ash-archive-tee: A washed ASH GRAY oversized short-sleeve T-SHIRT, boxy shape, dropped shoulders, faded original silver-black abstract orbital graphic centered on chest, visible fine cotton weave, softly uneven hem, natural drape. No readable text.
+
+black-cargo: BLACK technical CARGO TROUSERS, straight wide legs, two big utility flap thigh pockets, natural knees and hems, complete waistband at top and cuffs below. No belts or hangers or clips, invisible support. Restrained matte cotton/nylon texture, silver hardware.
+
+silver-shell-jacket: A LIGHT SILVER GRAY technical SHELL JACKET, lightweight crinkled matte nylon, pointed collar, full zip front, subtle curved charcoal seam lines, elastic cuffs, two welt pockets, no brand or text, naturally hanging with a slightly three-dimensional chest.
+
+bone-long-sleeve: A BONE WHITE long-sleeve COTTON JERSEY TOP, dark charcoal contrast overlock seam lines across the shoulders and curved side panels, crew neck with dark ribbed trim, gently ribbed cuffs, relaxed modern fit, no text or brand logos.
+
+charcoal-work-shirt: A washed CHARCOAL BLACK short-sleeved WORK SHIRT with two precise chest pockets, silver snap closures, Cuban collar, subtle tonal check weave, a small original tonal abstract patch on one pocket, no text, matte fabric.
+
+slate-hoodie: A light SLATE GRAY oversized pullover HOODIE, heavy brushed cotton fleece, softly structured three-piece hood, one deep kangaroo pocket, thick rib cuffs/hem, an original black abstract fragmented oval graphic across chest, no readable text.
